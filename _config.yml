@@ -1,0 +1,24 @@
+# 作者信息
+author: 
+  name: laugh
+  email: laugh@ijishu.org
+  link: http://www.ijishu.org
+  weibo: http://weibo.com/ytxiaohack/
+  Twitter: https://twitter.com/iCtrL_5
+
+# 站点信息
+title: i技术Team
+description: Hacking for fun
+url: http://www.ijishu.org/
+rss_url: /pages/atom.xml
+
+# 自定义
+locals:
+  tags: 标签
+  about: 关于
+  newest: 最新文章
+  archive: 归档
+
+#标签分类
+relative_permalinks: true
+safe: false
